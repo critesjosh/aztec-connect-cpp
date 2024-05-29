@@ -1,3 +1,5 @@
+⚠️ This repo was created for Aztec Connect, which is now deprecated. You can read more about the deprecation [here](https://docs.aztec.network/aztec_connect_sunset).
+
 ## Aztec Connect Cpp: C++ codebase that uses Barretenberg for Aztec Connect rollup circuits
 
 **This code is highly experimental, use at your own risk!**
